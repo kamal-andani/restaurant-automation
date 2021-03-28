@@ -1,0 +1,16 @@
+*{
+	font-family: 'Orbitron', sans-serif;
+}
+
+form{
+
+	margin-top: 50%;
+	background-color: rgb(255,255,255);
+	opacity: 0.90;
+}
+
+.center{
+	margin: auto;
+	width: 300px;
+	padding: 10px;
+}

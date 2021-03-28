@@ -1,0 +1,14 @@
+form{
+	background-color: rgb(255,255,255);
+	opacity: .92; 
+}
+*{
+	font-family: 'Orbitron', sans-serif;
+	font-size: 20px;
+}
+input[type=text]{
+	border-style: solid;
+	border-color: rgb(220,220,220);
+	border: 2px;
+	border-radius: 4px;
+}
